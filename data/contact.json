@@ -1,0 +1,65 @@
+{
+  "id": "contact",
+  "eyebrow": "TALK TO US",
+  "title": "Request a pilot, a partnership, or an investor conversation.",
+  "desc": "Trovec is working with a small number of design-partner organizations. These forms are illustrative — connect a form backend or CRM before taking this live.",
+  "email": "hello@trovec.tech",
+  "emailLabel": "Or email hello@trovec.tech directly",
+  "submitAlert": "Connect this form to your CRM or email backend before going live.",
+  "forms": [
+    {
+      "id": "pilot",
+      "title": "Request a Pilot",
+      "subtitle": "For developers, RMCs, audit firms, and government agencies.",
+      "fields": [
+        { "type": "text", "placeholder": "Name" },
+        { "type": "text", "placeholder": "Organization" },
+        { "type": "text", "placeholder": "Country" },
+        {
+          "type": "select",
+          "options": ["Sector", "Municipalities & Housing", "Finance", "Communications & IT", "Other"]
+        },
+        { "type": "email", "placeholder": "Email" },
+        { "type": "tel", "placeholder": "Phone" },
+        { "type": "textarea", "placeholder": "Problem description" }
+      ],
+      "submit": "Submit"
+    },
+    {
+      "id": "partner",
+      "title": "Partner with Trovec",
+      "subtitle": "Local operating partners, legal advisors, system integrators.",
+      "fields": [
+        { "type": "text", "placeholder": "Name" },
+        { "type": "text", "placeholder": "Organization" },
+        { "type": "text", "placeholder": "Country" },
+        { "type": "textarea", "placeholder": "Partnership interest" }
+      ],
+      "submit": "Submit"
+    },
+    {
+      "id": "investor",
+      "title": "Investor Inquiry",
+      "subtitle": "No valuation or funding-round claims are made on this site.",
+      "fields": [
+        { "type": "text", "placeholder": "Name" },
+        { "type": "text", "placeholder": "Firm" },
+        { "type": "email", "placeholder": "Email" },
+        { "type": "textarea", "placeholder": "Area of interest" }
+      ],
+      "submit": "Submit"
+    },
+    {
+      "id": "enterprise",
+      "title": "Enterprise Inquiry",
+      "subtitle": "For corporations, banks, hospitals, and logistics companies.",
+      "fields": [
+        { "type": "text", "placeholder": "Name" },
+        { "type": "text", "placeholder": "Company" },
+        { "type": "email", "placeholder": "Email" },
+        { "type": "textarea", "placeholder": "Use case" }
+      ],
+      "submit": "Submit"
+    }
+  ]
+}

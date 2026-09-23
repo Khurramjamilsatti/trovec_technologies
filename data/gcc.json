@@ -1,0 +1,37 @@
+{
+  "id": "gcc",
+  "eyebrow": "TROVEC GCC",
+  "title": "Saudi Arabia first — the rest of the GCC only once Saudi has reference clients.",
+  "markets": [
+    {
+      "name": "Saudi Arabia",
+      "tag": "PRIMARY MARKET",
+      "text": "LandSmart and Fiscra pilots targeted first; REIT OS scaling from Pakistan design partners."
+    },
+    {
+      "name": "UAE",
+      "tag": "NEXT, POST-TRACTION",
+      "text": "Evaluated only after 3+ Saudi reference clients exist, using the same land/compliance thesis."
+    },
+    {
+      "name": "Qatar",
+      "tag": "NEXT, POST-TRACTION",
+      "text": "Same sequencing logic as UAE — no premature entry."
+    },
+    {
+      "name": "Bahrain",
+      "tag": "WATCH",
+      "text": "No current activity or plan."
+    },
+    {
+      "name": "Oman",
+      "tag": "WATCH",
+      "text": "No current activity or plan."
+    },
+    {
+      "name": "Kuwait",
+      "tag": "WATCH",
+      "text": "No current activity or plan."
+    }
+  ]
+}

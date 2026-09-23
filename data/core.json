@@ -1,0 +1,50 @@
+{
+  "id": "core",
+  "eyebrow": "TROVEC CORE",
+  "title": "One architecture underneath every sector.",
+  "desc": "Every platform below — from LandSmart to a future SafeCity deployment — draws on the same three-layer core, not a separate codebase per sector. That shared core is the argument for why Trovec can credibly cover 18 sectors without becoming 18 disconnected products.",
+  "layers": [
+    {
+      "k": "LAYER 01",
+      "title": "AI",
+      "items": [
+        "Document AI & RAG",
+        "Arabic/English NLP",
+        "Computer vision (where legally permitted)",
+        "Predictive analytics",
+        "AI agents & workflow automation"
+      ]
+    },
+    {
+      "k": "LAYER 02",
+      "title": "Data",
+      "items": [
+        "GIS & spatial data",
+        "Business intelligence",
+        "Digital twin data models",
+        "Audit-grade data lineage"
+      ]
+    },
+    {
+      "k": "LAYER 03",
+      "title": "Cloud",
+      "items": [
+        "APIs & integration layer",
+        "Identity & access",
+        "Payments",
+        "Multi-tenant architecture"
+      ]
+    },
+    {
+      "k": "CROSS-CUTTING",
+      "title": "Cybersecurity",
+      "items": [
+        "Role-based access control",
+        "Encryption in transit & at rest",
+        "Audit logs",
+        "PDPL-aware data handling"
+      ]
+    }
+  ],
+  "stack": "AI + DATA + CLOUD + CYBERSECURITY → 18 SECTOR-SPECIFIC PLATFORMS"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "compare",
+  "eyebrow": "WHY TROVEC'S ARCHITECTURE",
+  "title": "One core, eighteen verticals — not eighteen separate vendors.",
+  "desc": "This is Trovec's own positioning argument, not an independently verified market ranking. No competitor names, pricing, or customer counts are claimed here — the comparison is about architectural approach, which is a design choice a prospective customer or partner can evaluate directly.",
+  "headers": ["Dimension", "Point-solution vendors (typical)", "Trovec's approach"],
+  "rows": [
+    {
+      "dimension": "Data model",
+      "typical": "Separate database per product; no shared identity of a property, entity, or case across tools",
+      "trovec": "One data core — a property, company, or case carries the same record through LandSmart, Fiscra, and REIT OS"
+    },
+    {
+      "dimension": "AI investment",
+      "typical": "AI bolted on per product, often a thin wrapper on a generic LLM API",
+      "trovec": "Shared AI layer (document AI, Arabic NLP, predictive analytics) built once, reused across every vertical"
+    },
+    {
+      "dimension": "Audit trail",
+      "typical": "Varies by vendor; often absent in early-stage marketplace tools",
+      "trovec": "Maker/checker and audit-log discipline inherited from Trovec's audit-governance origin, applied platform-wide"
+    },
+    {
+      "dimension": "Sector expansion",
+      "typical": "Each new sector is a new build, new team, new vendor relationship",
+      "trovec": "New sectors extend the same core — the 18-sector data model is structured, not hard-coded per page"
+    },
+    {
+      "dimension": "Origin",
+      "typical": "Often built by generalist software teams entering real estate/finance as a market opportunity",
+      "trovec": "Built by a team with land-administration and audit-governance experience first, software second"
+    }
+  ],
+  "note": "This table describes design intent for the Trovec architecture. LandSmart, Fiscra, and Trovec REIT OS currently exist as working software; Taskora has a live website and registered company with a detailed feasibility model but pre-launch marketplace traction; the remaining sectors are concepts built on the same intended core, not yet operational proof of the comparison above."
+}

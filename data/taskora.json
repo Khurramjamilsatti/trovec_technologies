@@ -1,0 +1,39 @@
+{
+  "id": "taskora",
+  "eyebrow": "PAKISTAN-FIRST PLATFORM ECOSYSTEM",
+  "title": "Taskora — Pakistan's digital services ecosystem.",
+  "desc": "One App. Every Service. Every Need. A Trovec Technologies company, registered as Taskora (Private) Limited under SECP, live at taskora.digital. Unlike the Vision-stage concepts elsewhere on this site, Taskora has its own live website, app download pages, and a detailed five-year feasibility model — it is Trovec's most developed product outside the LandSmart/Fiscra/REIT OS cluster.",
+  "url": "https://taskora.digital/",
+  "urlLabel": "Visit taskora.digital",
+  "features": [
+    {
+      "name": "17 Categories",
+      "desc": "Home Services, Construction & Renovation, Architects & Design, Legal, CAs & Taxation, IT & Software, Tutors & Education, Corporate Services, Facility Management, HR & Recruitment, Digital Marketing, Health & Wellness, Event Management, Logistics & Transport, Security Services, Insurance & Finance, and the Taskora Market Store.",
+      "tag": "100+ SERVICES"
+    },
+    {
+      "name": "Trust & verification",
+      "desc": "A 16-point verification standard before any professional can earn on the platform, plus a 310+ document verification library — built to solve the trust problem that keeps most home-services marketplaces small.",
+      "tag": "16-POINT STANDARD"
+    },
+    {
+      "name": "Expansion roadmap",
+      "desc": "Year 1: Islamabad & Rawalpindi. Year 2: Lahore. Year 3: Karachi. Year 4: nationwide across 13 major cities. Year 5+: GCC and international — the same Pakistan-first, GCC-later sequencing used across the rest of the Trovec portfolio.",
+      "tag": "5-YEAR ROADMAP"
+    }
+  ],
+  "trust": [
+    {
+      "badge": "Company's own planning model",
+      "text": "PKR 1.47T+ addressable market, 156M+ population coverage, PKR 81.6B Year-5 revenue target, 3.8x–5.6x expected ROI — figures from Taskora's internal feasibility study."
+    },
+    {
+      "badge": "Requires review",
+      "text": "Taskora's own one-page profile states plainly: \"All figures are planning targets from Taskora's internal feasibility model, not audited or achieved results. Prepared for briefing purposes only.\" This site repeats that caveat rather than dropping it."
+    },
+    {
+      "badge": "Ten revenue streams",
+      "text": "Marketplace commissions (40%), corporate contracts (20%), housing society contracts (10%), subscriptions, facility management, featured listings, advertising, training & certification, franchise fees, and future SaaS/analytics."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "industries",
+  "eyebrow": "18 SAUDI PRIORITY SECTORS",
+  "title": "Every sector, honestly staged.",
+  "desc": "These map to Saudi Arabia's National Privatization Strategy priority sectors. Each card opens to show the proposed Trovec platform, its real development stage, modules, AI capabilities, a sourced market signal where one exists, and Trovec's specific angle.",
+  "statusLegend": [
+    { "status": "pilot", "meaning": "means an actual pilot exists" },
+    { "status": "concept", "meaning": "means designed but unbuilt" },
+    { "status": "planned", "meaning": "means intentionally deferred" },
+    { "status": "vision", "meaning": "means long-term direction only" }
+  ],
+  "panelLabels": {
+    "modules": "Modules",
+    "ai": "AI Capabilities",
+    "why": "Why This Sector, Honestly",
+    "close": "Close ↑"
+  }
+}

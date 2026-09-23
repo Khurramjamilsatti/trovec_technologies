@@ -1,0 +1,208 @@
+{
+  "statusLabels": {
+    "pilot": "PILOT",
+    "concept": "CONCEPT",
+    "planned": "PLANNED",
+    "vision": "VISION"
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "Municipalities & Housing",
+      "platform": "UrbanOS",
+      "status": "concept",
+      "one": "Urban infrastructure, permits, inspections, waste, GIS.",
+      "market": "Sourced: Saudi real estate market USD 79.1B (2026) → USD 114.0B by 2031, 7.6% CAGR (Mordor Intelligence, Jun 2026). Riyadh faces a 305,000-unit housing gap through 2034.",
+      "modules": ["MunicipalOS", "PropertyOS", "LandSmart", "BuildSmart", "FacilityOS", "WasteOS", "Citizen Services"],
+      "ai": ["Predictive waste management", "Inspection prioritization", "Property analytics", "Arabic AI assistant"],
+      "why": "Direct extension of LandSmart/BuildSmart, already the most developed Trovec products — this is the flagship sector, not a new build."
+    },
+    {
+      "id": 2,
+      "name": "Communications & IT",
+      "platform": "Trovec AI Enterprise",
+      "status": "concept",
+      "one": "Enterprise AI automation, document AI, workflow.",
+      "market": "Sourced: Saudi Arabia declared 2026 the \"Year of Artificial Intelligence\" under SDAIA, a national digital-transformation priority.",
+      "modules": ["Arabic AI Assistant", "Enterprise AI Agent", "Document AI / RAG", "Knowledge Management", "API Integration"],
+      "ai": ["RAG", "Document intelligence", "Workflow automation", "AI analytics"],
+      "why": "Treated as a feature layer inside LandSmart and Fiscra, not a standalone product competing with SDAIA-scale national AI initiatives."
+    },
+    {
+      "id": 3,
+      "name": "Finance",
+      "platform": "Fiscra Saudi",
+      "status": "pilot",
+      "one": "Accounting, audit, tax, compliance, CFO services.",
+      "market": "Sourced: SAMA's Open Banking Framework has been live since 2023; ZATCA e-invoicing (Fatoora) integration phases are ongoing and mandatory for applicable businesses.",
+      "modules": ["Accounting", "Financial Reporting", "Audit", "Tax", "CFO Dashboard", "AI Audit Assistant"],
+      "ai": ["AI financial analyst", "AI audit assistant", "Document AI"],
+      "why": "Fiscra already exists as working software and is one of two Tier A products — built on the founder's CPA/AFA/audit-governance background."
+    },
+    {
+      "id": 4,
+      "name": "Transport & Logistics",
+      "platform": "LogiPak GCC",
+      "status": "planned",
+      "one": "Fleet, freight, warehouse, route optimization.",
+      "market": "Sourced: Saudi logistics market projected at USD 38.8B by 2026 (5.85% CAGR); Vision 2030 targets 55% of GCC logistics market share (Maersk / Arab News, 2025).",
+      "modules": ["Fleet Management", "Shipment Management", "Warehouse Management", "Route Optimization"],
+      "ai": ["Predictive ETA", "Route optimization", "Predictive maintenance"],
+      "why": "Deliberately held: no Trovec team or delivered logistics work exists yet, despite genuine Saudi market size."
+    },
+    {
+      "id": 5,
+      "name": "Health",
+      "platform": "Trovec HealthOS",
+      "status": "vision",
+      "one": "Hospital operations, not clinical replacement.",
+      "market": "Reliable specific market-size data not gathered for this profile; Vision 2030's broader healthcare transformation program is the directional signal.",
+      "modules": ["Appointments", "Patient flow", "Inventory", "Procurement", "Billing"],
+      "ai": ["Workflow intelligence", "Demand forecasting", "Document intelligence"],
+      "why": "Adjacent to Raymark Healthcare, a separate business line — not a Trovec software product today. Any clinical AI would require formal regulatory validation."
+    },
+    {
+      "id": 6,
+      "name": "Riyadh Smart City",
+      "platform": "Trovec Riyadh SmartCity OS",
+      "status": "vision",
+      "one": "Digital twin, traffic, infrastructure, utilities.",
+      "market": "Directional: Riyadh giga-project capital deployment (NEOM, The Line) is well-documented policy direction; no Trovec-specific figure exists.",
+      "modules": ["Digital Twin", "GIS", "Traffic analytics", "Emergency response"],
+      "ai": ["Predictive infrastructure", "Urban planning intelligence"],
+      "why": "A natural LandSmart extension once a Saudi government relationship exists — not pursued speculatively."
+    },
+    {
+      "id": 7,
+      "name": "Environment, Water & Agriculture",
+      "platform": "Trovec GreenOS",
+      "status": "vision",
+      "one": "Water monitoring, desalination analytics, irrigation.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Water monitoring", "Irrigation optimization", "ESG reporting"],
+      "ai": ["Water demand forecasting", "Leak detection"],
+      "why": "No current Trovec capability in this sector."
+    },
+    {
+      "id": 8,
+      "name": "Education",
+      "platform": "Trovec EduOS",
+      "status": "vision",
+      "one": "Institution management, learning analytics.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Institution management", "Student services", "Attendance"],
+      "ai": ["AI learning assistant", "Learning analytics"],
+      "why": "No current Trovec capability in this sector."
+    },
+    {
+      "id": 9,
+      "name": "Defense",
+      "platform": "Trovec DefenseLogistics",
+      "status": "vision",
+      "one": "Non-sensitive asset management and logistics only.",
+      "market": "Reliable public data not gathered for this profile. Sector is subject to strict Saudi security and authorization requirements.",
+      "modules": ["Asset management", "Maintenance", "Procurement"],
+      "ai": ["Predictive maintenance"],
+      "why": "Explicitly not weapons-related; outside Trovec's current scope and not actively pursued."
+    },
+    {
+      "id": 10,
+      "name": "Hajj & Umrah",
+      "platform": "Trovec PilgrimOS",
+      "status": "vision",
+      "one": "Pilgrim journey, crowd management, multilingual assistance.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Pilgrim journey", "Crowd management", "Emergency assistance"],
+      "ai": ["Crowd prediction", "Multilingual AI assistant"],
+      "why": "Concept-stage only; distinct from the unrelated SafeVoyage tourism concept."
+    },
+    {
+      "id": 11,
+      "name": "Sports",
+      "platform": "Trovec SportsOS",
+      "status": "vision",
+      "one": "Venue management, crowd flow, event operations.",
+      "market": "Directional: Saudi Arabia is a confirmed host for major upcoming sporting events (e.g. AFC 2027, FIFA World Cup 2034) — specific market sizing not gathered.",
+      "modules": ["Venue management", "Event management", "Facility management"],
+      "ai": ["Attendance prediction", "Crowd-flow analytics"],
+      "why": "Long-term opportunity, potentially paired with Alert360 for large-event crowd safety."
+    },
+    {
+      "id": 12,
+      "name": "HR & Social Development",
+      "platform": "Trovec SocialOS",
+      "status": "vision",
+      "one": "Case management, beneficiary services.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Case management", "Beneficiary management", "Service applications"],
+      "ai": ["Case prioritization", "Document processing"],
+      "why": "No current Trovec capability in this sector."
+    },
+    {
+      "id": 13,
+      "name": "Industry & Mineral Resources",
+      "platform": "Trovec IndustrialOS",
+      "status": "vision",
+      "one": "Factory management, production, mining.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Factory management", "Equipment", "Quality", "Supply chain"],
+      "ai": ["Predictive maintenance", "Production optimization", "Computer vision"],
+      "why": "No current Trovec capability in this sector."
+    },
+    {
+      "id": 14,
+      "name": "Media",
+      "platform": "Trovec MediaAI",
+      "status": "vision",
+      "one": "Arabic content, media asset management.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Media asset management", "Production workflows", "Subtitles/translation"],
+      "ai": ["Arabic content generation assistance", "Transcription", "Translation"],
+      "why": "No current Trovec capability in this sector."
+    },
+    {
+      "id": 15,
+      "name": "Interior / Safety",
+      "platform": "Trovec SafeCity",
+      "status": "vision",
+      "one": "Emergency management, incident response.",
+      "market": "Reliable public data not gathered for this profile. Sensitive sector, not a fit for an early-stage foreign entrant.",
+      "modules": ["Emergency management", "Incident management", "Emergency communication"],
+      "ai": ["Incident classification", "Risk analytics"],
+      "why": "Deliberately not pursued at this stage given sector sensitivity."
+    },
+    {
+      "id": 16,
+      "name": "Energy",
+      "platform": "Trovec EnergyAI",
+      "status": "vision",
+      "one": "Renewable monitoring, energy efficiency — not energy production.",
+      "market": "Reliable public data not gathered for this profile.",
+      "modules": ["Renewable monitoring", "Asset management", "Smart buildings"],
+      "ai": ["Energy forecasting", "Predictive maintenance"],
+      "why": "Positioned as digital optimization only, not competing with energy producers."
+    },
+    {
+      "id": 17,
+      "name": "Zakat, Tax & Customs",
+      "platform": "Trovec Trade & TaxOS",
+      "status": "concept",
+      "one": "Tax workflows, customs documentation — connects to Fiscra.",
+      "market": "Sourced: ZATCA e-invoicing (Fatoora) integration phases are an active, checkable compliance requirement for applicable Saudi businesses.",
+      "modules": ["Tax workflows", "Customs documentation", "Trade documents", "Audit trails"],
+      "ai": ["Document classification", "Compliance intelligence", "Anomaly detection"],
+      "why": "The ZATCA e-invoicing requirement already matters to Fiscra directly — this sector is a natural Fiscra extension, not a new product."
+    },
+    {
+      "id": 18,
+      "name": "AlUla / Tourism",
+      "platform": "Trovec TourismOS",
+      "status": "vision",
+      "one": "Destination management, visitor journey, multilingual AI.",
+      "market": "Reliable public data not gathered for this profile. No relationship with the Royal Commission for AlUla exists or is implied.",
+      "modules": ["Destination management", "Visitor journey", "Visitor analytics"],
+      "ai": ["Tourism assistant", "Visitor demand forecasting", "Personalization"],
+      "why": "SafeVoyage remains concept-only with no tourism-sector operating evidence; not pursued for a specialized zone at this stage."
+    }
+  ]
+}

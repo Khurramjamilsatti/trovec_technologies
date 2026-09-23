@@ -1,0 +1,137 @@
+{
+  "brand": "TROVEC",
+  "meta": {
+    "title": "Trovec Technologies — Engineering Intelligent Digital Futures",
+    "description": "Trovec Technologies builds AI-powered platforms — anchored by Trovec REIT OS™ and Taskora — across 18 Saudi priority sectors, engineered in Pakistan for Saudi Arabia and the GCC."
+  },
+  "nav": [
+    {
+      "href": "#core",
+      "key": "nav.core",
+      "label": "Core"
+    },
+    {
+      "href": "#industries",
+      "key": "nav.industries",
+      "label": "18 Sectors"
+    },
+    {
+      "href": "#reitos",
+      "key": "nav.reitos",
+      "label": "REIT OS"
+    },
+    {
+      "href": "#taskora",
+      "key": "nav.taskora",
+      "label": "Taskora"
+    },
+    {
+      "href": "#compare",
+      "key": "nav.compare",
+      "label": "Why Trovec"
+    },
+    {
+      "href": "#cases",
+      "key": "nav.cases",
+      "label": "Concepts"
+    },
+    {
+      "href": "#regional",
+      "key": "nav.regional",
+      "label": "Regional Alignment"
+    },
+    {
+      "href": "#gcc",
+      "key": "nav.gcc",
+      "label": "GCC"
+    },
+    {
+      "href": "#pakistan",
+      "key": "nav.pakistan",
+      "label": "Pakistan R&D"
+    }
+  ],
+  "cta": {
+    "href": "#contact",
+    "key": "nav.cta",
+    "label": "Request a Pilot"
+  },
+  "languages": [
+    {
+      "code": "en",
+      "label": "EN"
+    },
+    {
+      "code": "ar",
+      "label": "العربية"
+    },
+    {
+      "code": "ur",
+      "label": "اردو"
+    }
+  ],
+  "hero": {
+    "eyebrowKey": "hero.eyebrow",
+    "eyebrow": "ENGINEERING INTELLIGENT DIGITAL FUTURES",
+    "titleKey": "hero.h1",
+    "title": "One technology platform. Eighteen sectors. Not eighteen startups.",
+    "shortLede": "One shared AI, data and cloud OS for the GCC — engineered in Pakistan. Flagship: Trovec REIT OS™.",
+    "lede": "Trovec Technologies is a technology platform company — one shared AI, data and cloud operating system powering sector-specific solutions across real estate, finance, infrastructure and public services for the GCC region, engineered from Pakistan. Trovec REIT OS™ is the flagship, currently in design-partner pilots in Pakistan. Every other sector below is labeled honestly by its real stage of development — this is one platform with eighteen surfaces, not eighteen disconnected products.",
+    "ledeHighlight": "Trovec REIT OS™",
+    "actions": [
+      {
+        "href": "#contact",
+        "key": "hero.cta1",
+        "label": "Request a Pilot",
+        "variant": "primary"
+      },
+      {
+        "href": "#industries",
+        "key": "hero.cta2",
+        "label": "Explore the 18 Sectors",
+        "variant": "secondary"
+      }
+    ],
+    "chips": [
+      "PAKISTAN R&D",
+      "SAUDI COMMERCIALIZATION",
+      "GCC SCALE"
+    ],
+    "visual": {
+      "title": "Platform stack",
+      "layers": [
+        "AI",
+        "Data",
+        "Cloud",
+        "Cyber"
+      ],
+      "output": "18 sector surfaces"
+    }
+  },
+  "navPrimary": [
+    {
+      "href": "#industries",
+      "key": "nav.industries",
+      "label": "18 Sectors"
+    },
+    {
+      "href": "#reitos",
+      "key": "nav.reitos",
+      "label": "REIT OS"
+    },
+    {
+      "href": "#taskora",
+      "key": "nav.taskora",
+      "label": "Taskora"
+    },
+    {
+      "href": "#compare",
+      "key": "nav.compare",
+      "label": "Why Trovec"
+    }
+  ],
+  "footer": {
+    "left": "© Trovec Technologies. Pakistan · Saudi Arabia · GCC.",
+    "right": "TROVEC REIT OS™ · REAL ASSET OS™ are trademarks of Trovec Technologies. Status labels reflect actual development stage, not marketing claims."
+  }
+}

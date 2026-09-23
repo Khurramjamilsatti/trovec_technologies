@@ -1,0 +1,62 @@
+{
+  "id": "reitos",
+  "eyebrow": "FLAGSHIP · MUNICIPALITIES & HOUSING / FINANCE",
+  "title": "Trovec REIT OS™ — the operating system for real assets.",
+  "desc": "The most developed product in the Trovec ecosystem today. Connects land, development, finance, REIT structuring, investors, and operations in one digital architecture — starting with design-partner RMCs in Pakistan.",
+  "chain": [
+    { "label": "Land", "value": "LandSmart" },
+    { "label": "Development", "value": "BuildSmart" },
+    { "label": "Asset", "value": "Asset Passport" },
+    { "label": "Finance", "value": "FISCRA" },
+    { "label": "REIT", "value": "Trovec REIT OS" },
+    { "label": "Investor", "value": "Investor Portal" },
+    { "label": "Operations", "value": "QuickFix / Fix360" },
+    { "label": "Intelligence", "value": "REIT Score" }
+  ],
+  "products": [
+    {
+      "name": "Trovec REIT OS™",
+      "desc": "REIT readiness, structuring, regulatory roadmap, distributions, and investor holdings — the core scheme lifecycle from first assessment to paid distribution.",
+      "tag": "CORE PLATFORM"
+    },
+    {
+      "name": "LandSmart",
+      "desc": "Land and title intelligence — the entry point for a Developmental REIT scheme before construction begins.",
+      "tag": "LAND"
+    },
+    {
+      "name": "BuildSmart",
+      "desc": "Construction budgets, BOQ tracking, and milestone-gated contractor payments, handing off cleanly into an operating property.",
+      "tag": "DEVELOPMENT"
+    },
+    {
+      "name": "FISCRA",
+      "desc": "Maker/checker journal entries, AR/AP, loan tracking, and NAV — book value and fair value, both shown honestly.",
+      "tag": "FINANCE"
+    },
+    {
+      "name": "QuickFix / Fix360",
+      "desc": "Maintenance requests through vendor work orders to verified, invoiced completion — property operations with a real audit trail.",
+      "tag": "OPERATIONS"
+    },
+    {
+      "name": "Taskora",
+      "desc": "Find a licensed legal, tax, audit, or valuation professional matched to your jurisdiction and category, with quotations compared side by side.",
+      "tag": "PROFESSIONAL NETWORK"
+    }
+  ],
+  "trust": [
+    {
+      "badge": "Sourced · Saudi real estate",
+      "text": "Saudi real estate market: USD 79.1B (2026) → USD 114.0B by 2031, 7.6% CAGR (Mordor Intelligence, June 2026). Riyadh alone faces a 305,000-unit housing gap through 2034."
+    },
+    {
+      "badge": "Sourced · Saudi REITs",
+      "text": "Listed Saudi REIT total assets: SAR 31.8B, up 6.7% year-on-year (Q1 2026, Tadawul-reported). REIT market cap ≈ USD 4B across 19 listed funds (S&P Global, 2025)."
+    },
+    {
+      "badge": "Requires review",
+      "text": "Every regulatory claim on this page is a public policy signal, not confirmed legal advice — a Saudi lawyer's review is required before any REIT structuring commitment."
+    }
+  ]
+}

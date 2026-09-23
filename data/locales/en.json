@@ -1,0 +1,970 @@
+{
+  "site": {
+    "brand": "TROVEC",
+    "meta": {
+      "title": "Trovec Technologies — Engineering Intelligent Digital Futures",
+      "description": "Trovec Technologies builds AI-powered platforms — anchored by Trovec REIT OS™ and Taskora — across 18 Saudi priority sectors, engineered in Pakistan for Saudi Arabia and the GCC."
+    },
+    "nav": [
+      {
+        "href": "#core",
+        "key": "nav.core",
+        "label": "Core"
+      },
+      {
+        "href": "#industries",
+        "key": "nav.industries",
+        "label": "18 Sectors"
+      },
+      {
+        "href": "#reitos",
+        "key": "nav.reitos",
+        "label": "REIT OS"
+      },
+      {
+        "href": "#taskora",
+        "key": "nav.taskora",
+        "label": "Taskora"
+      },
+      {
+        "href": "#compare",
+        "key": "nav.compare",
+        "label": "Why Trovec"
+      },
+      {
+        "href": "#cases",
+        "key": "nav.cases",
+        "label": "Concepts"
+      },
+      {
+        "href": "#regional",
+        "key": "nav.regional",
+        "label": "Regional Alignment"
+      },
+      {
+        "href": "#gcc",
+        "key": "nav.gcc",
+        "label": "GCC"
+      },
+      {
+        "href": "#pakistan",
+        "key": "nav.pakistan",
+        "label": "Pakistan R&D"
+      }
+    ],
+    "cta": {
+      "href": "#contact",
+      "key": "nav.cta",
+      "label": "Request a Pilot"
+    },
+    "languages": [
+      {
+        "code": "en",
+        "label": "EN"
+      },
+      {
+        "code": "ar",
+        "label": "العربية"
+      },
+      {
+        "code": "ur",
+        "label": "اردو"
+      }
+    ],
+    "hero": {
+      "eyebrowKey": "hero.eyebrow",
+      "eyebrow": "ENGINEERING INTELLIGENT DIGITAL FUTURES",
+      "titleKey": "hero.h1",
+      "title": "One technology platform. Eighteen sectors. Not eighteen startups.",
+      "shortLede": "One shared AI, data and cloud OS for the GCC — engineered in Pakistan. Flagship: Trovec REIT OS™.",
+      "lede": "Trovec Technologies is a technology platform company — one shared AI, data and cloud operating system powering sector-specific solutions across real estate, finance, infrastructure and public services for the GCC region, engineered from Pakistan. Trovec REIT OS™ is the flagship, currently in design-partner pilots in Pakistan. Every other sector below is labeled honestly by its real stage of development — this is one platform with eighteen surfaces, not eighteen disconnected products.",
+      "ledeHighlight": "Trovec REIT OS™",
+      "actions": [
+        {
+          "href": "#contact",
+          "key": "hero.cta1",
+          "label": "Request a Pilot",
+          "variant": "primary"
+        },
+        {
+          "href": "#industries",
+          "key": "hero.cta2",
+          "label": "Explore the 18 Sectors",
+          "variant": "secondary"
+        }
+      ],
+      "chips": [
+        "PAKISTAN R&D",
+        "SAUDI COMMERCIALIZATION",
+        "GCC SCALE"
+      ],
+      "visual": {
+        "title": "Platform stack",
+        "layers": [
+          "AI",
+          "Data",
+          "Cloud",
+          "Cyber"
+        ],
+        "output": "18 sector surfaces"
+      }
+    },
+    "navPrimary": [
+      {
+        "href": "#industries",
+        "key": "nav.industries",
+        "label": "18 Sectors"
+      },
+      {
+        "href": "#reitos",
+        "key": "nav.reitos",
+        "label": "REIT OS"
+      },
+      {
+        "href": "#taskora",
+        "key": "nav.taskora",
+        "label": "Taskora"
+      },
+      {
+        "href": "#compare",
+        "key": "nav.compare",
+        "label": "Why Trovec"
+      }
+    ],
+    "footer": {
+      "left": "© Trovec Technologies. Pakistan · Saudi Arabia · GCC.",
+      "right": "TROVEC REIT OS™ · REAL ASSET OS™ are trademarks of Trovec Technologies. Status labels reflect actual development stage, not marketing claims."
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System",
+      "themeAria": "Toggle color theme"
+    }
+  },
+  "core": {
+    "id": "core",
+    "eyebrow": "TROVEC CORE",
+    "title": "One architecture underneath every sector.",
+    "desc": "Every platform below — from LandSmart to a future SafeCity deployment — draws on the same three-layer core, not a separate codebase per sector. That shared core is the argument for why Trovec can credibly cover 18 sectors without becoming 18 disconnected products.",
+    "layers": [
+      {
+        "k": "LAYER 01",
+        "title": "AI",
+        "items": [
+          "Document AI & RAG",
+          "Arabic/English NLP",
+          "Computer vision (where legally permitted)",
+          "Predictive analytics",
+          "AI agents & workflow automation"
+        ]
+      },
+      {
+        "k": "LAYER 02",
+        "title": "Data",
+        "items": [
+          "GIS & spatial data",
+          "Business intelligence",
+          "Digital twin data models",
+          "Audit-grade data lineage"
+        ]
+      },
+      {
+        "k": "LAYER 03",
+        "title": "Cloud",
+        "items": [
+          "APIs & integration layer",
+          "Identity & access",
+          "Payments",
+          "Multi-tenant architecture"
+        ]
+      },
+      {
+        "k": "CROSS-CUTTING",
+        "title": "Cybersecurity",
+        "items": [
+          "Role-based access control",
+          "Encryption in transit & at rest",
+          "Audit logs",
+          "PDPL-aware data handling"
+        ]
+      }
+    ],
+    "stack": "AI + DATA + CLOUD + CYBERSECURITY → 18 SECTOR-SPECIFIC PLATFORMS"
+  },
+  "industries": {
+    "id": "industries",
+    "eyebrow": "18 SAUDI PRIORITY SECTORS",
+    "title": "Every sector, honestly staged.",
+    "desc": "These map to Saudi Arabia's National Privatization Strategy priority sectors. Each card opens to show the proposed Trovec platform, its real development stage, modules, AI capabilities, a sourced market signal where one exists, and Trovec's specific angle.",
+    "statusLegend": [
+      {
+        "status": "pilot",
+        "meaning": "means an actual pilot exists"
+      },
+      {
+        "status": "concept",
+        "meaning": "means designed but unbuilt"
+      },
+      {
+        "status": "planned",
+        "meaning": "means intentionally deferred"
+      },
+      {
+        "status": "vision",
+        "meaning": "means long-term direction only"
+      }
+    ],
+    "panelLabels": {
+      "modules": "Modules",
+      "ai": "AI Capabilities",
+      "why": "Why This Sector, Honestly",
+      "close": "Close ↑"
+    }
+  },
+  "sectors": {
+    "statusLabels": {
+      "pilot": "PILOT",
+      "concept": "CONCEPT",
+      "planned": "PLANNED",
+      "vision": "VISION"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Municipalities & Housing",
+        "platform": "UrbanOS",
+        "status": "concept",
+        "one": "Urban infrastructure, permits, inspections, waste, GIS.",
+        "market": "Sourced: Saudi real estate market USD 79.1B (2026) → USD 114.0B by 2031, 7.6% CAGR (Mordor Intelligence, Jun 2026). Riyadh faces a 305,000-unit housing gap through 2034.",
+        "modules": [
+          "MunicipalOS",
+          "PropertyOS",
+          "LandSmart",
+          "BuildSmart",
+          "FacilityOS",
+          "WasteOS",
+          "Citizen Services"
+        ],
+        "ai": [
+          "Predictive waste management",
+          "Inspection prioritization",
+          "Property analytics",
+          "Arabic AI assistant"
+        ],
+        "why": "Direct extension of LandSmart/BuildSmart, already the most developed Trovec products — this is the flagship sector, not a new build."
+      },
+      {
+        "id": 2,
+        "name": "Communications & IT",
+        "platform": "Trovec AI Enterprise",
+        "status": "concept",
+        "one": "Enterprise AI automation, document AI, workflow.",
+        "market": "Sourced: Saudi Arabia declared 2026 the \"Year of Artificial Intelligence\" under SDAIA, a national digital-transformation priority.",
+        "modules": [
+          "Arabic AI Assistant",
+          "Enterprise AI Agent",
+          "Document AI / RAG",
+          "Knowledge Management",
+          "API Integration"
+        ],
+        "ai": [
+          "RAG",
+          "Document intelligence",
+          "Workflow automation",
+          "AI analytics"
+        ],
+        "why": "Treated as a feature layer inside LandSmart and Fiscra, not a standalone product competing with SDAIA-scale national AI initiatives."
+      },
+      {
+        "id": 3,
+        "name": "Finance",
+        "platform": "Fiscra Saudi",
+        "status": "pilot",
+        "one": "Accounting, audit, tax, compliance, CFO services.",
+        "market": "Sourced: SAMA's Open Banking Framework has been live since 2023; ZATCA e-invoicing (Fatoora) integration phases are ongoing and mandatory for applicable businesses.",
+        "modules": [
+          "Accounting",
+          "Financial Reporting",
+          "Audit",
+          "Tax",
+          "CFO Dashboard",
+          "AI Audit Assistant"
+        ],
+        "ai": [
+          "AI financial analyst",
+          "AI audit assistant",
+          "Document AI"
+        ],
+        "why": "Fiscra already exists as working software and is one of two Tier A products — built on the founder's CPA/AFA/audit-governance background."
+      },
+      {
+        "id": 4,
+        "name": "Transport & Logistics",
+        "platform": "LogiPak GCC",
+        "status": "planned",
+        "one": "Fleet, freight, warehouse, route optimization.",
+        "market": "Sourced: Saudi logistics market projected at USD 38.8B by 2026 (5.85% CAGR); Vision 2030 targets 55% of GCC logistics market share (Maersk / Arab News, 2025).",
+        "modules": [
+          "Fleet Management",
+          "Shipment Management",
+          "Warehouse Management",
+          "Route Optimization"
+        ],
+        "ai": [
+          "Predictive ETA",
+          "Route optimization",
+          "Predictive maintenance"
+        ],
+        "why": "Deliberately held: no Trovec team or delivered logistics work exists yet, despite genuine Saudi market size."
+      },
+      {
+        "id": 5,
+        "name": "Health",
+        "platform": "Trovec HealthOS",
+        "status": "vision",
+        "one": "Hospital operations, not clinical replacement.",
+        "market": "Reliable specific market-size data not gathered for this profile; Vision 2030's broader healthcare transformation program is the directional signal.",
+        "modules": [
+          "Appointments",
+          "Patient flow",
+          "Inventory",
+          "Procurement",
+          "Billing"
+        ],
+        "ai": [
+          "Workflow intelligence",
+          "Demand forecasting",
+          "Document intelligence"
+        ],
+        "why": "Adjacent to Raymark Healthcare, a separate business line — not a Trovec software product today. Any clinical AI would require formal regulatory validation."
+      },
+      {
+        "id": 6,
+        "name": "Riyadh Smart City",
+        "platform": "Trovec Riyadh SmartCity OS",
+        "status": "vision",
+        "one": "Digital twin, traffic, infrastructure, utilities.",
+        "market": "Directional: Riyadh giga-project capital deployment (NEOM, The Line) is well-documented policy direction; no Trovec-specific figure exists.",
+        "modules": [
+          "Digital Twin",
+          "GIS",
+          "Traffic analytics",
+          "Emergency response"
+        ],
+        "ai": [
+          "Predictive infrastructure",
+          "Urban planning intelligence"
+        ],
+        "why": "A natural LandSmart extension once a Saudi government relationship exists — not pursued speculatively."
+      },
+      {
+        "id": 7,
+        "name": "Environment, Water & Agriculture",
+        "platform": "Trovec GreenOS",
+        "status": "vision",
+        "one": "Water monitoring, desalination analytics, irrigation.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Water monitoring",
+          "Irrigation optimization",
+          "ESG reporting"
+        ],
+        "ai": [
+          "Water demand forecasting",
+          "Leak detection"
+        ],
+        "why": "No current Trovec capability in this sector."
+      },
+      {
+        "id": 8,
+        "name": "Education",
+        "platform": "Trovec EduOS",
+        "status": "vision",
+        "one": "Institution management, learning analytics.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Institution management",
+          "Student services",
+          "Attendance"
+        ],
+        "ai": [
+          "AI learning assistant",
+          "Learning analytics"
+        ],
+        "why": "No current Trovec capability in this sector."
+      },
+      {
+        "id": 9,
+        "name": "Defense",
+        "platform": "Trovec DefenseLogistics",
+        "status": "vision",
+        "one": "Non-sensitive asset management and logistics only.",
+        "market": "Reliable public data not gathered for this profile. Sector is subject to strict Saudi security and authorization requirements.",
+        "modules": [
+          "Asset management",
+          "Maintenance",
+          "Procurement"
+        ],
+        "ai": [
+          "Predictive maintenance"
+        ],
+        "why": "Explicitly not weapons-related; outside Trovec's current scope and not actively pursued."
+      },
+      {
+        "id": 10,
+        "name": "Hajj & Umrah",
+        "platform": "Trovec PilgrimOS",
+        "status": "vision",
+        "one": "Pilgrim journey, crowd management, multilingual assistance.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Pilgrim journey",
+          "Crowd management",
+          "Emergency assistance"
+        ],
+        "ai": [
+          "Crowd prediction",
+          "Multilingual AI assistant"
+        ],
+        "why": "Concept-stage only; distinct from the unrelated SafeVoyage tourism concept."
+      },
+      {
+        "id": 11,
+        "name": "Sports",
+        "platform": "Trovec SportsOS",
+        "status": "vision",
+        "one": "Venue management, crowd flow, event operations.",
+        "market": "Directional: Saudi Arabia is a confirmed host for major upcoming sporting events (e.g. AFC 2027, FIFA World Cup 2034) — specific market sizing not gathered.",
+        "modules": [
+          "Venue management",
+          "Event management",
+          "Facility management"
+        ],
+        "ai": [
+          "Attendance prediction",
+          "Crowd-flow analytics"
+        ],
+        "why": "Long-term opportunity, potentially paired with Alert360 for large-event crowd safety."
+      },
+      {
+        "id": 12,
+        "name": "HR & Social Development",
+        "platform": "Trovec SocialOS",
+        "status": "vision",
+        "one": "Case management, beneficiary services.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Case management",
+          "Beneficiary management",
+          "Service applications"
+        ],
+        "ai": [
+          "Case prioritization",
+          "Document processing"
+        ],
+        "why": "No current Trovec capability in this sector."
+      },
+      {
+        "id": 13,
+        "name": "Industry & Mineral Resources",
+        "platform": "Trovec IndustrialOS",
+        "status": "vision",
+        "one": "Factory management, production, mining.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Factory management",
+          "Equipment",
+          "Quality",
+          "Supply chain"
+        ],
+        "ai": [
+          "Predictive maintenance",
+          "Production optimization",
+          "Computer vision"
+        ],
+        "why": "No current Trovec capability in this sector."
+      },
+      {
+        "id": 14,
+        "name": "Media",
+        "platform": "Trovec MediaAI",
+        "status": "vision",
+        "one": "Arabic content, media asset management.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Media asset management",
+          "Production workflows",
+          "Subtitles/translation"
+        ],
+        "ai": [
+          "Arabic content generation assistance",
+          "Transcription",
+          "Translation"
+        ],
+        "why": "No current Trovec capability in this sector."
+      },
+      {
+        "id": 15,
+        "name": "Interior / Safety",
+        "platform": "Trovec SafeCity",
+        "status": "vision",
+        "one": "Emergency management, incident response.",
+        "market": "Reliable public data not gathered for this profile. Sensitive sector, not a fit for an early-stage foreign entrant.",
+        "modules": [
+          "Emergency management",
+          "Incident management",
+          "Emergency communication"
+        ],
+        "ai": [
+          "Incident classification",
+          "Risk analytics"
+        ],
+        "why": "Deliberately not pursued at this stage given sector sensitivity."
+      },
+      {
+        "id": 16,
+        "name": "Energy",
+        "platform": "Trovec EnergyAI",
+        "status": "vision",
+        "one": "Renewable monitoring, energy efficiency — not energy production.",
+        "market": "Reliable public data not gathered for this profile.",
+        "modules": [
+          "Renewable monitoring",
+          "Asset management",
+          "Smart buildings"
+        ],
+        "ai": [
+          "Energy forecasting",
+          "Predictive maintenance"
+        ],
+        "why": "Positioned as digital optimization only, not competing with energy producers."
+      },
+      {
+        "id": 17,
+        "name": "Zakat, Tax & Customs",
+        "platform": "Trovec Trade & TaxOS",
+        "status": "concept",
+        "one": "Tax workflows, customs documentation — connects to Fiscra.",
+        "market": "Sourced: ZATCA e-invoicing (Fatoora) integration phases are an active, checkable compliance requirement for applicable Saudi businesses.",
+        "modules": [
+          "Tax workflows",
+          "Customs documentation",
+          "Trade documents",
+          "Audit trails"
+        ],
+        "ai": [
+          "Document classification",
+          "Compliance intelligence",
+          "Anomaly detection"
+        ],
+        "why": "The ZATCA e-invoicing requirement already matters to Fiscra directly — this sector is a natural Fiscra extension, not a new product."
+      },
+      {
+        "id": 18,
+        "name": "AlUla / Tourism",
+        "platform": "Trovec TourismOS",
+        "status": "vision",
+        "one": "Destination management, visitor journey, multilingual AI.",
+        "market": "Reliable public data not gathered for this profile. No relationship with the Royal Commission for AlUla exists or is implied.",
+        "modules": [
+          "Destination management",
+          "Visitor journey",
+          "Visitor analytics"
+        ],
+        "ai": [
+          "Tourism assistant",
+          "Visitor demand forecasting",
+          "Personalization"
+        ],
+        "why": "SafeVoyage remains concept-only with no tourism-sector operating evidence; not pursued for a specialized zone at this stage."
+      }
+    ]
+  },
+  "reitos": {
+    "id": "reitos",
+    "eyebrow": "FLAGSHIP · MUNICIPALITIES & HOUSING / FINANCE",
+    "title": "Trovec REIT OS™ — the operating system for real assets.",
+    "desc": "The most developed product in the Trovec ecosystem today. Connects land, development, finance, REIT structuring, investors, and operations in one digital architecture — starting with design-partner RMCs in Pakistan.",
+    "chain": [
+      {
+        "label": "Land",
+        "value": "LandSmart"
+      },
+      {
+        "label": "Development",
+        "value": "BuildSmart"
+      },
+      {
+        "label": "Asset",
+        "value": "Asset Passport"
+      },
+      {
+        "label": "Finance",
+        "value": "FISCRA"
+      },
+      {
+        "label": "REIT",
+        "value": "Trovec REIT OS"
+      },
+      {
+        "label": "Investor",
+        "value": "Investor Portal"
+      },
+      {
+        "label": "Operations",
+        "value": "QuickFix / Fix360"
+      },
+      {
+        "label": "Intelligence",
+        "value": "REIT Score"
+      }
+    ],
+    "products": [
+      {
+        "name": "Trovec REIT OS™",
+        "desc": "REIT readiness, structuring, regulatory roadmap, distributions, and investor holdings — the core scheme lifecycle from first assessment to paid distribution.",
+        "tag": "CORE PLATFORM"
+      },
+      {
+        "name": "LandSmart",
+        "desc": "Land and title intelligence — the entry point for a Developmental REIT scheme before construction begins.",
+        "tag": "LAND"
+      },
+      {
+        "name": "BuildSmart",
+        "desc": "Construction budgets, BOQ tracking, and milestone-gated contractor payments, handing off cleanly into an operating property.",
+        "tag": "DEVELOPMENT"
+      },
+      {
+        "name": "FISCRA",
+        "desc": "Maker/checker journal entries, AR/AP, loan tracking, and NAV — book value and fair value, both shown honestly.",
+        "tag": "FINANCE"
+      },
+      {
+        "name": "QuickFix / Fix360",
+        "desc": "Maintenance requests through vendor work orders to verified, invoiced completion — property operations with a real audit trail.",
+        "tag": "OPERATIONS"
+      },
+      {
+        "name": "Taskora",
+        "desc": "Find a licensed legal, tax, audit, or valuation professional matched to your jurisdiction and category, with quotations compared side by side.",
+        "tag": "PROFESSIONAL NETWORK"
+      }
+    ],
+    "trust": [
+      {
+        "badge": "Sourced · Saudi real estate",
+        "text": "Saudi real estate market: USD 79.1B (2026) → USD 114.0B by 2031, 7.6% CAGR (Mordor Intelligence, June 2026). Riyadh alone faces a 305,000-unit housing gap through 2034."
+      },
+      {
+        "badge": "Sourced · Saudi REITs",
+        "text": "Listed Saudi REIT total assets: SAR 31.8B, up 6.7% year-on-year (Q1 2026, Tadawul-reported). REIT market cap ≈ USD 4B across 19 listed funds (S&P Global, 2025)."
+      },
+      {
+        "badge": "Requires review",
+        "text": "Every regulatory claim on this page is a public policy signal, not confirmed legal advice — a Saudi lawyer's review is required before any REIT structuring commitment."
+      }
+    ]
+  },
+  "taskora": {
+    "id": "taskora",
+    "eyebrow": "PAKISTAN-FIRST PLATFORM ECOSYSTEM",
+    "title": "Taskora — Pakistan's digital services ecosystem.",
+    "desc": "One App. Every Service. Every Need. A Trovec Technologies company, registered as Taskora (Private) Limited under SECP, live at taskora.digital. Unlike the Vision-stage concepts elsewhere on this site, Taskora has its own live website, app download pages, and a detailed five-year feasibility model — it is Trovec's most developed product outside the LandSmart/Fiscra/REIT OS cluster.",
+    "url": "https://taskora.digital/",
+    "urlLabel": "Visit taskora.digital",
+    "features": [
+      {
+        "name": "17 Categories",
+        "desc": "Home Services, Construction & Renovation, Architects & Design, Legal, CAs & Taxation, IT & Software, Tutors & Education, Corporate Services, Facility Management, HR & Recruitment, Digital Marketing, Health & Wellness, Event Management, Logistics & Transport, Security Services, Insurance & Finance, and the Taskora Market Store.",
+        "tag": "100+ SERVICES"
+      },
+      {
+        "name": "Trust & verification",
+        "desc": "A 16-point verification standard before any professional can earn on the platform, plus a 310+ document verification library — built to solve the trust problem that keeps most home-services marketplaces small.",
+        "tag": "16-POINT STANDARD"
+      },
+      {
+        "name": "Expansion roadmap",
+        "desc": "Year 1: Islamabad & Rawalpindi. Year 2: Lahore. Year 3: Karachi. Year 4: nationwide across 13 major cities. Year 5+: GCC and international — the same Pakistan-first, GCC-later sequencing used across the rest of the Trovec portfolio.",
+        "tag": "5-YEAR ROADMAP"
+      }
+    ],
+    "trust": [
+      {
+        "badge": "Company's own planning model",
+        "text": "PKR 1.47T+ addressable market, 156M+ population coverage, PKR 81.6B Year-5 revenue target, 3.8x–5.6x expected ROI — figures from Taskora's internal feasibility study."
+      },
+      {
+        "badge": "Requires review",
+        "text": "Taskora's own one-page profile states plainly: \"All figures are planning targets from Taskora's internal feasibility model, not audited or achieved results. Prepared for briefing purposes only.\" This site repeats that caveat rather than dropping it."
+      },
+      {
+        "badge": "Ten revenue streams",
+        "text": "Marketplace commissions (40%), corporate contracts (20%), housing society contracts (10%), subscriptions, facility management, featured listings, advertising, training & certification, franchise fees, and future SaaS/analytics."
+      }
+    ]
+  },
+  "pakmaweshi": {
+    "id": "pakmaweshi",
+    "eyebrow": "ALSO BUILDING",
+    "title": "PakMaweshi — Pakistan's digital livestock ecosystem.",
+    "desc": "A Trovec Technologies project connecting farmers, traders and buyers through AI-assisted trading, trust, and transparency — livestock marketplace, live auctions, verified traders, veterinary services, insurance, financing, logistics, and meat export/abattoir services, alongside a marketplace store for feed, seed, and equipment. Currently a website prototype; not yet a live transacting marketplace, and no financial or user projections are published here.",
+    "status": "concept"
+  },
+  "compare": {
+    "id": "compare",
+    "eyebrow": "WHY TROVEC'S ARCHITECTURE",
+    "title": "One core, eighteen verticals — not eighteen separate vendors.",
+    "desc": "This is Trovec's own positioning argument, not an independently verified market ranking. No competitor names, pricing, or customer counts are claimed here — the comparison is about architectural approach, which is a design choice a prospective customer or partner can evaluate directly.",
+    "headers": [
+      "Dimension",
+      "Point-solution vendors (typical)",
+      "Trovec's approach"
+    ],
+    "rows": [
+      {
+        "dimension": "Data model",
+        "typical": "Separate database per product; no shared identity of a property, entity, or case across tools",
+        "trovec": "One data core — a property, company, or case carries the same record through LandSmart, Fiscra, and REIT OS"
+      },
+      {
+        "dimension": "AI investment",
+        "typical": "AI bolted on per product, often a thin wrapper on a generic LLM API",
+        "trovec": "Shared AI layer (document AI, Arabic NLP, predictive analytics) built once, reused across every vertical"
+      },
+      {
+        "dimension": "Audit trail",
+        "typical": "Varies by vendor; often absent in early-stage marketplace tools",
+        "trovec": "Maker/checker and audit-log discipline inherited from Trovec's audit-governance origin, applied platform-wide"
+      },
+      {
+        "dimension": "Sector expansion",
+        "typical": "Each new sector is a new build, new team, new vendor relationship",
+        "trovec": "New sectors extend the same core — the 18-sector data model is structured, not hard-coded per page"
+      },
+      {
+        "dimension": "Origin",
+        "typical": "Often built by generalist software teams entering real estate/finance as a market opportunity",
+        "trovec": "Built by a team with land-administration and audit-governance experience first, software second"
+      }
+    ],
+    "note": "This table describes design intent for the Trovec architecture. LandSmart, Fiscra, and Trovec REIT OS currently exist as working software; Taskora has a live website and registered company with a detailed feasibility model but pre-launch marketplace traction; the remaining sectors are concepts built on the same intended core, not yet operational proof of the comparison above."
+  },
+  "cases": {
+    "id": "cases",
+    "eyebrow": "CONCEPT DEMONSTRATIONS",
+    "title": "What each platform would do — not claimed customers.",
+    "desc": "No fabricated case studies or customer names appear on this site. These are concept demonstrations of the intended workflow, clearly labeled as such.",
+    "items": [
+      {
+        "badge": "Concept Demonstration",
+        "title": "UrbanOS — Municipal Permit Workflow",
+        "text": "A concept walkthrough of how a housing-development permit could move from application to inspection to approval inside UrbanOS, with an AI-prioritized inspection queue."
+      },
+      {
+        "badge": "Concept Demonstration",
+        "title": "Fiscra — Audit Trail Example",
+        "text": "A sample maker/checker audit trail showing how a journal entry moves through review, flagging, and approval — illustrative data only, no real client figures."
+      },
+      {
+        "badge": "Concept Demonstration",
+        "title": "Trovec REIT OS — Scheme Readiness Assessment",
+        "text": "An illustrative walkthrough of the REIT readiness scoring model used with design-partner RMCs, showing how confidence and sourcing are attached to every figure."
+      }
+    ]
+  },
+  "regional": {
+    "id": "regional",
+    "eyebrow": "REGIONAL ALIGNMENT",
+    "title": "Built against the region's own stated transformation priorities.",
+    "desc": "Every claim below traces to a public policy source, not an internal projection. Trovec Technologies is an independent company and is not an official government partner, endorsed program participant, or affiliate of any national transformation initiative — the points below describe alignment with publicly stated policy direction, nothing more.",
+    "stages": [
+      {
+        "eyebrow": "AI POLICY",
+        "text": "2026 has been publicly framed as a national year of focus on artificial intelligence adoption under the country's data and AI authority, as part of its broader digital-economy priorities."
+      },
+      {
+        "eyebrow": "INVESTMENT",
+        "text": "A New Investment Law (effective Feb 2025) allows 100% foreign ownership in technology, real estate, construction, and logistics via a single investment-ministry registration window."
+      },
+      {
+        "eyebrow": "REAL ESTATE",
+        "text": "A Law of Real Estate Ownership and Investment by Non-Saudis is in force from January 2026, opening designated-zone foreign investment in real estate."
+      },
+      {
+        "eyebrow": "PRIORITY SECTORS",
+        "text": "A National Privatization Strategy (Jan 2026) names 18 sectors for accelerated PPP investment and faster licensing — the same 18 mapped on this site."
+      }
+    ]
+  },
+  "gcc": {
+    "id": "gcc",
+    "eyebrow": "TROVEC GCC",
+    "title": "Saudi Arabia first — the rest of the GCC only once Saudi has reference clients.",
+    "markets": [
+      {
+        "name": "Saudi Arabia",
+        "tag": "PRIMARY MARKET",
+        "text": "LandSmart and Fiscra pilots targeted first; REIT OS scaling from Pakistan design partners."
+      },
+      {
+        "name": "UAE",
+        "tag": "NEXT, POST-TRACTION",
+        "text": "Evaluated only after 3+ Saudi reference clients exist, using the same land/compliance thesis."
+      },
+      {
+        "name": "Qatar",
+        "tag": "NEXT, POST-TRACTION",
+        "text": "Same sequencing logic as UAE — no premature entry."
+      },
+      {
+        "name": "Bahrain",
+        "tag": "WATCH",
+        "text": "No current activity or plan."
+      },
+      {
+        "name": "Oman",
+        "tag": "WATCH",
+        "text": "No current activity or plan."
+      },
+      {
+        "name": "Kuwait",
+        "tag": "WATCH",
+        "text": "No current activity or plan."
+      }
+    ]
+  },
+  "pakistan": {
+    "id": "pakistan",
+    "eyebrow": "TROVEC PAKISTAN",
+    "title": "A technology and engineering innovation base — not just a cost center.",
+    "desc": "Pakistan is where Trovec's products are actually built and where its founder's land-administration and audit-governance experience originates. AI engineering, software development, cybersecurity, and product design all sit here, with Saudi Arabia and the GCC handling commercialization, enterprise relationships, and regional operations once a product has proven itself in Pakistan first."
+  },
+  "contact": {
+    "id": "contact",
+    "eyebrow": "TALK TO US",
+    "title": "Request a pilot, a partnership, or an investor conversation.",
+    "desc": "Trovec is working with a small number of design-partner organizations. These forms are illustrative — connect a form backend or CRM before taking this live.",
+    "email": "hello@trovec.tech",
+    "emailLabel": "Or email hello@trovec.tech directly",
+    "submitAlert": "Connect this form to your CRM or email backend before going live.",
+    "forms": [
+      {
+        "id": "pilot",
+        "title": "Request a Pilot",
+        "subtitle": "For developers, RMCs, audit firms, and government agencies.",
+        "fields": [
+          {
+            "type": "text",
+            "placeholder": "Name"
+          },
+          {
+            "type": "text",
+            "placeholder": "Organization"
+          },
+          {
+            "type": "text",
+            "placeholder": "Country"
+          },
+          {
+            "type": "select",
+            "options": [
+              "Sector",
+              "Municipalities & Housing",
+              "Finance",
+              "Communications & IT",
+              "Other"
+            ]
+          },
+          {
+            "type": "email",
+            "placeholder": "Email"
+          },
+          {
+            "type": "tel",
+            "placeholder": "Phone"
+          },
+          {
+            "type": "textarea",
+            "placeholder": "Problem description"
+          }
+        ],
+        "submit": "Submit"
+      },
+      {
+        "id": "partner",
+        "title": "Partner with Trovec",
+        "subtitle": "Local operating partners, legal advisors, system integrators.",
+        "fields": [
+          {
+            "type": "text",
+            "placeholder": "Name"
+          },
+          {
+            "type": "text",
+            "placeholder": "Organization"
+          },
+          {
+            "type": "text",
+            "placeholder": "Country"
+          },
+          {
+            "type": "textarea",
+            "placeholder": "Partnership interest"
+          }
+        ],
+        "submit": "Submit"
+      },
+      {
+        "id": "investor",
+        "title": "Investor Inquiry",
+        "subtitle": "No valuation or funding-round claims are made on this site.",
+        "fields": [
+          {
+            "type": "text",
+            "placeholder": "Name"
+          },
+          {
+            "type": "text",
+            "placeholder": "Firm"
+          },
+          {
+            "type": "email",
+            "placeholder": "Email"
+          },
+          {
+            "type": "textarea",
+            "placeholder": "Area of interest"
+          }
+        ],
+        "submit": "Submit"
+      },
+      {
+        "id": "enterprise",
+        "title": "Enterprise Inquiry",
+        "subtitle": "For corporations, banks, hospitals, and logistics companies.",
+        "fields": [
+          {
+            "type": "text",
+            "placeholder": "Name"
+          },
+          {
+            "type": "text",
+            "placeholder": "Company"
+          },
+          {
+            "type": "email",
+            "placeholder": "Email"
+          },
+          {
+            "type": "textarea",
+            "placeholder": "Use case"
+          }
+        ],
+        "submit": "Submit"
+      }
+    ]
+  }
+}

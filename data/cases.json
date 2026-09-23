@@ -1,0 +1,23 @@
+{
+  "id": "cases",
+  "eyebrow": "CONCEPT DEMONSTRATIONS",
+  "title": "What each platform would do — not claimed customers.",
+  "desc": "No fabricated case studies or customer names appear on this site. These are concept demonstrations of the intended workflow, clearly labeled as such.",
+  "items": [
+    {
+      "badge": "Concept Demonstration",
+      "title": "UrbanOS — Municipal Permit Workflow",
+      "text": "A concept walkthrough of how a housing-development permit could move from application to inspection to approval inside UrbanOS, with an AI-prioritized inspection queue."
+    },
+    {
+      "badge": "Concept Demonstration",
+      "title": "Fiscra — Audit Trail Example",
+      "text": "A sample maker/checker audit trail showing how a journal entry moves through review, flagging, and approval — illustrative data only, no real client figures."
+    },
+    {
+      "badge": "Concept Demonstration",
+      "title": "Trovec REIT OS — Scheme Readiness Assessment",
+      "text": "An illustrative walkthrough of the REIT readiness scoring model used with design-partner RMCs, showing how confidence and sourcing are attached to every figure."
+    }
+  ]
+}

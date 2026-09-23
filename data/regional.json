@@ -1,0 +1,24 @@
+{
+  "id": "regional",
+  "eyebrow": "REGIONAL ALIGNMENT",
+  "title": "Built against the region's own stated transformation priorities.",
+  "desc": "Every claim below traces to a public policy source, not an internal projection. Trovec Technologies is an independent company and is not an official government partner, endorsed program participant, or affiliate of any national transformation initiative — the points below describe alignment with publicly stated policy direction, nothing more.",
+  "stages": [
+    {
+      "eyebrow": "AI POLICY",
+      "text": "2026 has been publicly framed as a national year of focus on artificial intelligence adoption under the country's data and AI authority, as part of its broader digital-economy priorities."
+    },
+    {
+      "eyebrow": "INVESTMENT",
+      "text": "A New Investment Law (effective Feb 2025) allows 100% foreign ownership in technology, real estate, construction, and logistics via a single investment-ministry registration window."
+    },
+    {
+      "eyebrow": "REAL ESTATE",
+      "text": "A Law of Real Estate Ownership and Investment by Non-Saudis is in force from January 2026, opening designated-zone foreign investment in real estate."
+    },
+    {
+      "eyebrow": "PRIORITY SECTORS",
+      "text": "A National Privatization Strategy (Jan 2026) names 18 sectors for accelerated PPP investment and faster licensing — the same 18 mapped on this site."
+    }
+  ]
+}
